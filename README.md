@@ -15,5 +15,5 @@ Power BI, DAX, Data Modeling, Visualization Design
 Designed to support business decisions by delivering clear, interactive insights from complex retail data.
 
 **Screenshot of dashboard
-https://github.com/naveena97906/Blinkit_Dashboard/blob/main/Screenshot%202025-06-11%20153634.png
+SS: ![Dashboard_preview](https://github.com/naveena97906/Blinkit_Dashboard/blob/main/Screenshot%202025-06-11%20153634.png)
 
